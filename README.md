@@ -21,7 +21,7 @@ I practiced:
 ## 🚀 How to View
 
 You can view this live at:
-👉 [GitHub Pages Link]([https://s1nhapriyanshu.github.io/Rothoko-painting/](https://s1nhapriyanshu.github.io/Rothoko-painting/))
+👉 [GitHub Pages Link]((https://s1nhapriyanshu.github.io/Rothoko-painting/))
 
 Or clone this repo and open `index.html` in your browser.
 
